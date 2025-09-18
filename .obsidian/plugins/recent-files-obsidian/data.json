@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Style Settings：管理主题",
+      "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
+    },
+    {
+      "basename": "Meta Bind：自动修改属性",
+      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
+    },
+    {
+      "basename": "Linter：自动规范笔记",
+      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
+    },
+    {
+      "basename": "项目管理看板示例",
+      "path": "示例/Kanban演示/项目管理看板示例.md"
+    },
+    {
+      "basename": "生活事务管理",
+      "path": "示例/Kanban演示/生活事务管理.md"
+    },
+    {
+      "basename": "学习计划看板",
+      "path": "示例/Kanban演示/学习计划看板.md"
+    },
+    {
+      "basename": "团队协作看板",
+      "path": "示例/Kanban演示/团队协作看板.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/Kanban演示/README.md"
+    },
+    {
+      "basename": "Kanban插件功能说明",
+      "path": "示例/Kanban演示/Kanban插件功能说明.md"
+    },
+    {
+      "basename": "Kanban：创建看板视图",
+      "path": "Obsidian设置/Community plugins/Kanban：创建看板视图.md"
+    },
+    {
+      "basename": "Importer：导入文件",
+      "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
+    },
+    {
+      "basename": "Image Tookit",
+      "path": "Obsidian设置/Community plugins/Image Tookit.md"
+    },
+    {
+      "basename": "Git：同步",
+      "path": "Obsidian设置/Community plugins/Git：同步.md"
+    },
+    {
+      "basename": "Highlighter：高亮笔记内容",
+      "path": "Obsidian设置/Community plugins/Highlighter：高亮笔记内容.md"
+    },
+    {
+      "basename": "Hider",
+      "path": "Obsidian设置/Community plugins/Hider.md"
+    },
+    {
       "basename": "高级图表示例",
       "path": "示例/Charts演示/高级图表示例.md"
     },
@@ -33,36 +93,8 @@
       "path": "示例/Charts演示/测试数据4.md"
     },
     {
-      "basename": "Meta Bind：自动修改属性",
-      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
-    },
-    {
-      "basename": "生活事务管理",
-      "path": "示例/Kanban演示/生活事务管理.md"
-    },
-    {
-      "basename": "学习计划看板",
-      "path": "示例/Kanban演示/学习计划看板.md"
-    },
-    {
-      "basename": "团队协作看板",
-      "path": "示例/Kanban演示/团队协作看板.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Kanban演示/README.md"
-    },
-    {
-      "basename": "Kanban插件功能说明",
-      "path": "示例/Kanban演示/Kanban插件功能说明.md"
-    },
-    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
-    },
-    {
-      "basename": "Image Tookit",
-      "path": "Obsidian设置/Community plugins/Image Tookit.md"
     },
     {
       "basename": "目录",
@@ -79,10 +111,6 @@
     {
       "basename": "RSS Feed",
       "path": "Obsidian设置/Community plugins/RSS Feed.md"
-    },
-    {
-      "basename": "Hider",
-      "path": "Obsidian设置/Community plugins/Hider.md"
     },
     {
       "basename": "Remember cursor position：一定要装！",
@@ -171,34 +199,6 @@
     {
       "basename": "会议记录模板",
       "path": "Templates/会议记录模板.md"
-    },
-    {
-      "basename": "Advanced URI",
-      "path": "Obsidian设置/Community plugins/Advanced URI.md"
-    },
-    {
-      "basename": "Tag Wrangler：管理标签",
-      "path": "Obsidian设置/Community plugins/Tag Wrangler：管理标签.md"
-    },
-    {
-      "basename": "Copilot：AI辅助创作",
-      "path": "Obsidian设置/Community plugins/Copilot：AI辅助创作.md"
-    },
-    {
-      "basename": "Appearance",
-      "path": "Obsidian设置/Appearance.md"
-    },
-    {
-      "basename": "Editor",
-      "path": "Obsidian设置/Editor.md"
-    },
-    {
-      "basename": "Core plugins",
-      "path": "Obsidian设置/Core plugins.md"
-    },
-    {
-      "basename": "Files and links",
-      "path": "Obsidian设置/Files and links.md"
     }
   ],
   "omittedPaths": [],
