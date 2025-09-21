@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "测试数据5",
-      "path": "示例/Charts演示/测试数据5.md"
+      "basename": "RSS Feed",
+      "path": "Obsidian设置/Community plugins/RSS Feed.md"
+    },
+    {
+      "basename": "Advanced URI",
+      "path": "Obsidian设置/Community plugins/Advanced URI.md"
+    },
+    {
+      "basename": "测试数据2",
+      "path": "示例/Charts演示/测试数据2.md"
+    },
+    {
+      "basename": "测试数据3",
+      "path": "示例/Charts演示/测试数据3.md"
     },
     {
       "basename": "测试数据4",
       "path": "示例/Charts演示/测试数据4.md"
+    },
+    {
+      "basename": "测试数据5",
+      "path": "示例/Charts演示/测试数据5.md"
     },
     {
       "basename": "生活事务管理",
@@ -39,10 +55,6 @@
     {
       "basename": "README",
       "path": "示例/Charts演示/README.md"
-    },
-    {
-      "basename": "测试数据2",
-      "path": "示例/Charts演示/测试数据2.md"
     },
     {
       "basename": "测试数据1",
@@ -187,18 +199,6 @@
     {
       "basename": "Advanced Table：高级表格",
       "path": "Obsidian设置/Community plugins/Advanced Table：高级表格.md"
-    },
-    {
-      "basename": "Advanced URI",
-      "path": "Obsidian设置/Community plugins/Advanced URI.md"
-    },
-    {
-      "basename": "Hider",
-      "path": "Obsidian设置/Community plugins/Hider.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
