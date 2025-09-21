@@ -1,72 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "测试数据5",
+      "path": "示例/Charts演示/测试数据5.md"
     },
     {
-      "basename": "Hider",
-      "path": "Obsidian设置/Community plugins/Hider.md"
-    },
-    {
-      "basename": "Linter：自动规范笔记",
-      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Obsidian设置/Community plugins/Tasks.md"
-    },
-    {
-      "basename": "Templater：模板+自动化",
-      "path": "Obsidian设置/Community plugins/Templater：模板+自动化.md"
-    },
-    {
-      "basename": "Slash Commander",
-      "path": "Obsidian设置/Community plugins/Slash Commander.md"
-    },
-    {
-      "basename": "RSS Feed",
-      "path": "Obsidian设置/Community plugins/RSS Feed.md"
-    },
-    {
-      "basename": "Meta Bind：自动修改属性",
-      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
-    },
-    {
-      "basename": "Image in Editor",
-      "path": "Obsidian设置/Community plugins/Image in Editor.md"
-    },
-    {
-      "basename": "Kanban：创建看板视图",
-      "path": "Obsidian设置/Community plugins/Kanban：创建看板视图.md"
-    },
-    {
-      "basename": "Image Tookit",
-      "path": "Obsidian设置/Community plugins/Image Tookit.md"
-    },
-    {
-      "basename": "Code Emitter：执行代码！",
-      "path": "Obsidian设置/Community plugins/Code Emitter：执行代码！.md"
-    },
-    {
-      "basename": "Git：同步",
-      "path": "Obsidian设置/Community plugins/Git：同步.md"
-    },
-    {
-      "basename": "Advanced URI",
-      "path": "Obsidian设置/Community plugins/Advanced URI.md"
-    },
-    {
-      "basename": "Style Settings：管理主题",
-      "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
-    },
-    {
-      "basename": "项目管理看板示例",
-      "path": "示例/Kanban演示/项目管理看板示例.md"
+      "basename": "测试数据4",
+      "path": "示例/Charts演示/测试数据4.md"
     },
     {
       "basename": "生活事务管理",
       "path": "示例/Kanban演示/生活事务管理.md"
+    },
+    {
+      "basename": "待办事项快速添加",
+      "path": "示例/Quick Add演示/待办事项快速添加.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/Quick Add演示/README.md"
+    },
+    {
+      "basename": "基础图表示例",
+      "path": "示例/Charts演示/基础图表示例.md"
+    },
+    {
+      "basename": "习惯记录3",
+      "path": "示例/Charts演示/习惯记录3.md"
+    },
+    {
+      "basename": "习惯记录2",
+      "path": "示例/Charts演示/习惯记录2.md"
+    },
+    {
+      "basename": "习惯记录1",
+      "path": "示例/Charts演示/习惯记录1.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/Charts演示/README.md"
+    },
+    {
+      "basename": "测试数据2",
+      "path": "示例/Charts演示/测试数据2.md"
+    },
+    {
+      "basename": "测试数据1",
+      "path": "示例/Charts演示/测试数据1.md"
+    },
+    {
+      "basename": "插件设置说明",
+      "path": "示例/Charts演示/插件设置说明.md"
     },
     {
       "basename": "学习计划看板",
@@ -77,128 +61,144 @@
       "path": "示例/Kanban演示/团队协作看板.md"
     },
     {
-      "basename": "README",
-      "path": "示例/Kanban演示/README.md"
-    },
-    {
-      "basename": "Kanban插件功能说明",
-      "path": "示例/Kanban演示/Kanban插件功能说明.md"
-    },
-    {
-      "basename": "Importer：导入文件",
-      "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
-    },
-    {
       "basename": "Highlighter：高亮笔记内容",
       "path": "Obsidian设置/Community plugins/Highlighter：高亮笔记内容.md"
     },
     {
-      "basename": "高级图表示例",
-      "path": "示例/Charts演示/高级图表示例.md"
+      "basename": "Homepage：建立精美主页",
+      "path": "Obsidian设置/Community plugins/Homepage：建立精美主页.md"
     },
     {
-      "basename": "README",
-      "path": "示例/Charts演示/README.md"
-    },
-    {
-      "basename": "习惯记录1",
-      "path": "示例/Charts演示/习惯记录1.md"
-    },
-    {
-      "basename": "测试数据2",
-      "path": "示例/Charts演示/测试数据2.md"
-    },
-    {
-      "basename": "习惯记录3",
-      "path": "示例/Charts演示/习惯记录3.md"
-    },
-    {
-      "basename": "DB Folder：制作Notion数据库",
-      "path": "Obsidian设置/Community plugins/DB Folder：制作Notion数据库.md"
-    },
-    {
-      "basename": "测试数据5",
-      "path": "示例/Charts演示/测试数据5.md"
-    },
-    {
-      "basename": "测试数据4",
-      "path": "示例/Charts演示/测试数据4.md"
-    },
-    {
-      "basename": "数据导入示例",
-      "path": "示例/Charts演示/数据导入示例.md"
-    },
-    {
-      "basename": "目录",
-      "path": "Templates/目录.md"
-    },
-    {
-      "basename": "测试数据3",
-      "path": "示例/Charts演示/测试数据3.md"
-    },
-    {
-      "basename": "Remember cursor position：一定要装！",
-      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
-    },
-    {
-      "basename": "插件设置说明",
-      "path": "示例/Charts演示/插件设置说明.md"
-    },
-    {
-      "basename": "实际应用场景",
-      "path": "示例/Charts演示/实际应用场景.md"
-    },
-    {
-      "basename": "Easy Typing：规范化 + 打字辅助",
-      "path": "Obsidian设置/Community plugins/Easy Typing：规范化 + 打字辅助.md"
-    },
-    {
-      "basename": "Banners：添加横幅背景",
-      "path": "Obsidian设置/Community plugins/Banners：添加横幅背景.md"
+      "basename": "Iconize：万物皆可图标",
+      "path": "Obsidian设置/Community plugins/Iconize：万物皆可图标.md"
     },
     {
       "basename": "Image Auto Upload",
       "path": "Obsidian设置/Community plugins/Image Auto Upload.md"
     },
     {
-      "basename": "基础图表示例",
-      "path": "示例/Charts演示/基础图表示例.md"
+      "basename": "Image in Editor",
+      "path": "Obsidian设置/Community plugins/Image in Editor.md"
     },
     {
-      "basename": "Charts：制作图表",
-      "path": "Obsidian设置/Community plugins/Charts：制作图表.md"
+      "basename": "Image Tookit",
+      "path": "Obsidian设置/Community plugins/Image Tookit.md"
     },
     {
-      "basename": "快速捕获想法",
-      "path": "示例/Quick Add演示/快速捕获想法.md"
+      "basename": "Importer：导入文件",
+      "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
     },
     {
-      "basename": "日记模板示例",
-      "path": "示例/Quick Add演示/日记模板示例.md"
+      "basename": "Kanban：创建看板视图",
+      "path": "Obsidian设置/Community plugins/Kanban：创建看板视图.md"
     },
     {
-      "basename": "自定义脚本示例",
-      "path": "示例/Quick Add演示/自定义脚本示例.md"
+      "basename": "Linter：自动规范笔记",
+      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
     },
     {
-      "basename": "待办事项快速添加",
-      "path": "示例/Quick Add演示/待办事项快速添加.md"
+      "basename": "Meta Bind：自动修改属性",
+      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
+    },
+    {
+      "basename": "Minimal Theme Settings：Minimal主题帮手",
+      "path": "Obsidian设置/Community plugins/Minimal Theme Settings：Minimal主题帮手.md"
+    },
+    {
+      "basename": "Ominisearch：增强搜索功能",
+      "path": "Obsidian设置/Community plugins/Ominisearch：增强搜索功能.md"
+    },
+    {
+      "basename": "Outliner：增强大纲功能",
+      "path": "Obsidian设置/Community plugins/Outliner：增强大纲功能.md"
+    },
+    {
+      "basename": "Pandoc：导出工具",
+      "path": "Obsidian设置/Community plugins/Pandoc：导出工具.md"
     },
     {
       "basename": "QuickAdd：自动化工具",
       "path": "Obsidian设置/Community plugins/QuickAdd：自动化工具.md"
     },
     {
-      "basename": "会议记录模板",
-      "path": "示例/Quick Add演示/会议记录模板.md"
+      "basename": "Remember cursor position：一定要装！",
+      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
+    },
+    {
+      "basename": "Reminder：闹钟提醒",
+      "path": "Obsidian设置/Community plugins/Reminder：闹钟提醒.md"
+    },
+    {
+      "basename": "Remotely Save：同步",
+      "path": "Obsidian设置/Community plugins/Remotely Save：同步.md"
+    },
+    {
+      "basename": "Templater：模板+自动化",
+      "path": "Obsidian设置/Community plugins/Templater：模板+自动化.md"
+    },
+    {
+      "basename": "Tag Wrangler：管理标签",
+      "path": "Obsidian设置/Community plugins/Tag Wrangler：管理标签.md"
+    },
+    {
+      "basename": "Style Settings：管理主题",
+      "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
+    },
+    {
+      "basename": "Sheet Plus：编辑excel表格",
+      "path": "Obsidian设置/Community plugins/Sheet Plus：编辑excel表格.md"
+    },
+    {
+      "basename": "Calendar：日历视图",
+      "path": "Obsidian设置/Community plugins/Calendar：日历视图.md"
+    },
+    {
+      "basename": "Charts：制作图表",
+      "path": "Obsidian设置/Community plugins/Charts：制作图表.md"
+    },
+    {
+      "basename": "Code Emitter：执行代码！",
+      "path": "Obsidian设置/Community plugins/Code Emitter：执行代码！.md"
+    },
+    {
+      "basename": "Copilot：AI辅助创作",
+      "path": "Obsidian设置/Community plugins/Copilot：AI辅助创作.md"
+    },
+    {
+      "basename": "DB Folder：制作Notion数据库",
+      "path": "Obsidian设置/Community plugins/DB Folder：制作Notion数据库.md"
+    },
+    {
+      "basename": "Annotator：对PDF做标注",
+      "path": "Obsidian设置/Community plugins/Annotator：对PDF做标注.md"
+    },
+    {
+      "basename": "Banners：添加横幅背景",
+      "path": "Obsidian设置/Community plugins/Banners：添加横幅背景.md"
+    },
+    {
+      "basename": "Admonition：标出注意事项",
+      "path": "Obsidian设置/Community plugins/Admonition：标出注意事项.md"
+    },
+    {
+      "basename": "Advanced Slides：做PPT",
+      "path": "Obsidian设置/Community plugins/Advanced Slides：做PPT.md"
+    },
+    {
+      "basename": "Advanced Table：高级表格",
+      "path": "Obsidian设置/Community plugins/Advanced Table：高级表格.md"
+    },
+    {
+      "basename": "Advanced URI",
+      "path": "Obsidian设置/Community plugins/Advanced URI.md"
+    },
+    {
+      "basename": "Hider",
+      "path": "Obsidian设置/Community plugins/Hider.md"
     },
     {
       "basename": "README",
-      "path": "示例/Quick Add演示/README.md"
-    },
-    {
-      "basename": "Excalidraw：手写笔记爱好者福音",
-      "path": "Obsidian设置/Community plugins/Excalidraw：手写笔记爱好者福音.md"
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
