@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Linter：自动规范笔记",
+      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
+    },
+    {
+      "basename": "Hider",
+      "path": "Obsidian设置/Community plugins/Hider.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Obsidian设置/Community plugins/Tasks.md"
+    },
+    {
+      "basename": "Templater：模板+自动化",
+      "path": "Obsidian设置/Community plugins/Templater：模板+自动化.md"
+    },
+    {
       "basename": "Slash Commander",
       "path": "Obsidian设置/Community plugins/Slash Commander.md"
+    },
+    {
+      "basename": "RSS Feed",
+      "path": "Obsidian设置/Community plugins/RSS Feed.md"
     },
     {
       "basename": "Meta Bind：自动修改属性",
@@ -25,10 +45,6 @@
       "path": "Obsidian设置/Community plugins/Code Emitter：执行代码！.md"
     },
     {
-      "basename": "Hider",
-      "path": "Obsidian设置/Community plugins/Hider.md"
-    },
-    {
       "basename": "Git：同步",
       "path": "Obsidian设置/Community plugins/Git：同步.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Style Settings：管理主题",
       "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
-    },
-    {
-      "basename": "Linter：自动规范笔记",
-      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
     },
     {
       "basename": "项目管理看板示例",
@@ -121,14 +133,6 @@
       "path": "示例/Charts演示/测试数据3.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Obsidian设置/Community plugins/Tasks.md"
-    },
-    {
-      "basename": "RSS Feed",
-      "path": "Obsidian设置/Community plugins/RSS Feed.md"
-    },
-    {
       "basename": "Remember cursor position：一定要装！",
       "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Excalidraw：手写笔记爱好者福音",
       "path": "Obsidian设置/Community plugins/Excalidraw：手写笔记爱好者福音.md"
-    },
-    {
-      "basename": "Editing Toolbar：像Word一样编辑笔记",
-      "path": "Obsidian设置/Community plugins/Editing Toolbar：像Word一样编辑笔记.md"
     }
   ],
   "omittedPaths": [],
