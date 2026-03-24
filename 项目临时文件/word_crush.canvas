@@ -17,25 +17,25 @@
     },
     {
       "autoResizeHeight": true,
+      "height": 160,
+      "id": "070f243d133b702a",
+      "styleAttributes": {
+      },
+      "text": "UIGameMenu2 存在问题的 Prefab 需要删掉，否则会导致 lua 无法加载 \nXLuaManager/UIRoot (Clone)/Canvas/Game/UIGameMenu 2 (Clone)/BonusLevel/Top/Time/Time 00 Variant (Missing Prefab with guid: 67 b 20861 c 94 c 3414 d 989207 c 433 fd 19 c)/Placeholder for referenced MonoBehaviour in Prefab instance (1)",
+      "type": "text",
+      "width": 640,
+      "x": -720,
+      "y": -320
+    },
+    {
+      "autoResizeHeight": true,
       "file": "Attachment/Pasted image 20260324203357.png",
       "height": 236,
       "id": "c7b40e5517ff0927",
       "type": "file",
       "width": 400,
       "x": -720,
-      "y": -200
-    },
-    {
-      "autoResizeHeight": true,
-      "height": 100,
-      "id": "070f243d133b702a",
-      "styleAttributes": {
-      },
-      "text": "UIGameMenu2 存在问题的 Prefab 需要删掉，否则会导致 lua 无法加载 ",
-      "type": "text",
-      "width": 260,
-      "x": -720,
-      "y": -320
+      "y": -160
     }
   ]
 }
