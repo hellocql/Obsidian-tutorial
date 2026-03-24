@@ -1,0 +1,18 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "3d824ac842af9c2c",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -200
+    }
+  ]
+}

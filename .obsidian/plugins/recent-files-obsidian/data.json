@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "word_crush",
+      "path": "项目临时文件/word_crush.canvas"
+    },
+    {
+      "basename": "homepage",
+      "path": "示例/homepage.md"
+    },
+    {
       "basename": "QuickAdd：自动化工具",
       "path": "Obsidian设置/Community plugins/QuickAdd：自动化工具.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Templater：模板+自动化",
       "path": "Obsidian设置/Community plugins/Templater：模板+自动化.md"
-    },
-    {
-      "basename": "Tag Wrangler：管理标签",
-      "path": "Obsidian设置/Community plugins/Tag Wrangler：管理标签.md"
-    },
-    {
-      "basename": "Style Settings：管理主题",
-      "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
-    },
-    {
-      "basename": "Sheet Plus：编辑excel表格",
-      "path": "Obsidian设置/Community plugins/Sheet Plus：编辑excel表格.md"
     }
   ],
   "omittedPaths": [],
