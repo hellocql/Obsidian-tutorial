@@ -36,6 +36,42 @@
       "width": 400,
       "x": -720,
       "y": -160
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "d969a4497edc0dca",
+      "styleAttributes": {
+      },
+      "text": "AppsflyerManager 中的  IAppsFlyerConversionData, IAppsFlyerValidateReceipt 实现需要补上",
+      "type": "text",
+      "width": 700,
+      "x": -720,
+      "y": 100
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2fbbebf39a8c4301",
+      "styleAttributes": {
+      },
+      "text": "ADManager void LogAdRevenue (double revenue) 需要修复",
+      "type": "text",
+      "width": 660,
+      "x": -720,
+      "y": 200
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "69b64e3ef70006ac",
+      "styleAttributes": {
+      },
+      "text": "Lua 中的\nOnValidateReceipt \nAppsFlyeriOS. ValidateAndSendInAppPurchase \n需要修复",
+      "type": "text",
+      "width": 720,
+      "x": -720,
+      "y": 280
     }
   ]
 }
