@@ -14,6 +14,28 @@
       "width": 640,
       "x": -720,
       "y": -440
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260324203357.png",
+      "height": 236,
+      "id": "c7b40e5517ff0927",
+      "type": "file",
+      "width": 400,
+      "x": -720,
+      "y": -200
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 100,
+      "id": "070f243d133b702a",
+      "styleAttributes": {
+      },
+      "text": "UIGameMenu2 存在问题的 Prefab 需要删掉，否则会导致 lua 无法加载 ",
+      "type": "text",
+      "width": 260,
+      "x": -720,
+      "y": -320
     }
   ]
 }
