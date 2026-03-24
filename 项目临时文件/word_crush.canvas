@@ -4,15 +4,16 @@
   "nodes": [
     {
       "autoResizeHeight": true,
-      "height": 60,
+      "color": "1",
+      "height": 100,
       "id": "3d824ac842af9c2c",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "IAnalyticsService 中增加了两个新的接口\nvoid UserSet (Dictionary<string, object> properties);\nvoid UserSetOnce (Dictionary<string, object> properties);",
       "type": "text",
-      "width": 260,
-      "x": 140,
-      "y": -200
+      "width": 640,
+      "x": -720,
+      "y": -440
     }
   ]
 }
