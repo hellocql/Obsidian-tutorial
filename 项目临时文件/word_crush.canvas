@@ -72,6 +72,18 @@
       "width": 720,
       "x": -720,
       "y": 280
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "e0a8f50d2bf42fab",
+      "styleAttributes": {
+      },
+      "text": "VInspector 也删除了\n路径：UDK/vInspector 存在依赖的几个调用放入 CollectionExtensions. Cs",
+      "type": "text",
+      "width": 720,
+      "x": -720,
+      "y": 360
     }
   ]
 }
