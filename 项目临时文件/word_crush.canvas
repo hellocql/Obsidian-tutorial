@@ -84,6 +84,18 @@
       "width": 720,
       "x": -720,
       "y": 360
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "301b2cc608b81f12",
+      "styleAttributes": {
+      },
+      "text": "移除 HuoShanSDK 及其相关引用",
+      "type": "text",
+      "width": 380,
+      "x": -720,
+      "y": 440
     }
   ]
 }
