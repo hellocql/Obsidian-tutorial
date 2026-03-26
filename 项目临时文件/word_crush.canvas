@@ -108,6 +108,26 @@
       "width": 720,
       "x": -720,
       "y": 520
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260326160206.png",
+      "height": 298,
+      "id": "34abfef30c15303d",
+      "type": "file",
+      "width": 400,
+      "x": -720,
+      "y": 620
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260326160133.png",
+      "height": 400,
+      "id": "9ed3c4e749bf1314",
+      "type": "file",
+      "width": 323,
+      "x": -300,
+      "y": 620
     }
   ]
 }
