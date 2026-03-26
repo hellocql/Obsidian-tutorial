@@ -103,9 +103,9 @@
       "id": "f23c40c6129580a9",
       "styleAttributes": {
       },
-      "text": "APM",
+      "text": "APM Backtrace 需要关注一下具体用途，仅在 IOS 平台存在调用",
       "type": "text",
-      "width": 260,
+      "width": 720,
       "x": -720,
       "y": 520
     }
