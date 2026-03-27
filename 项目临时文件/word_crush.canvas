@@ -150,6 +150,18 @@
       "width": 915,
       "x": -680,
       "y": 1200
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "c7a833210079482a",
+      "styleAttributes": {
+      },
+      "text": "把 Firebase 的几个用到的包都导入进去了",
+      "type": "text",
+      "width": 260,
+      "x": -180,
+      "y": 1100
     }
   ]
 }
