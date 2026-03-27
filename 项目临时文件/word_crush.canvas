@@ -128,6 +128,28 @@
       "width": 323,
       "x": -300,
       "y": 620
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2d5329b8f9b608ac",
+      "styleAttributes": {
+      },
+      "text": "FacebookSDK 只有两个引用暂时去掉 FBReporter",
+      "type": "text",
+      "width": 420,
+      "x": -700,
+      "y": 1100
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260327105035.png",
+      "height": 391,
+      "id": "3d5c60e849463f5d",
+      "type": "file",
+      "width": 915,
+      "x": -680,
+      "y": 1200
     }
   ]
 }
