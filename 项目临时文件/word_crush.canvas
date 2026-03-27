@@ -143,16 +143,6 @@
     },
     {
       "autoResizeHeight": true,
-      "file": "Attachment/Pasted image 20260327105035.png",
-      "height": 391,
-      "id": "3d5c60e849463f5d",
-      "type": "file",
-      "width": 915,
-      "x": -680,
-      "y": 1200
-    },
-    {
-      "autoResizeHeight": true,
       "height": 60,
       "id": "c7a833210079482a",
       "styleAttributes": {
@@ -162,6 +152,16 @@
       "width": 260,
       "x": -180,
       "y": 1100
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260327105035.png",
+      "height": 391,
+      "id": "3d5c60e849463f5d",
+      "type": "file",
+      "width": 915,
+      "x": -700,
+      "y": 1200
     }
   ]
 }
