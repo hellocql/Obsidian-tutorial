@@ -26,6 +26,42 @@
       },
       "toNode": "3bb6a1f80fb3fbc6",
       "toSide": "left"
+    },
+    {
+      "fromNode": "c9e899c05bf6cb20",
+      "fromSide": "right",
+      "id": "39fe6cf0ba6cab91",
+      "styleAttributes": {
+      },
+      "toNode": "e27122855715928e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c9e899c05bf6cb20",
+      "fromSide": "right",
+      "id": "4d322d0ef27d8b75",
+      "styleAttributes": {
+      },
+      "toNode": "9917ff4820be3478",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "52857a9dc56e4d13",
+      "fromSide": "right",
+      "id": "2fa16e100c53eedd",
+      "styleAttributes": {
+      },
+      "toNode": "2bb2ce80cfc01dd3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "52857a9dc56e4d13",
+      "fromSide": "right",
+      "id": "524244224f625f8b",
+      "styleAttributes": {
+      },
+      "toNode": "37b0f25278375a76",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -77,6 +113,90 @@
       "width": 420,
       "x": 240,
       "y": 40
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "c9e899c05bf6cb20",
+      "styleAttributes": {
+      },
+      "text": "B. 划错多次后划出一个答案",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": 160
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "e27122855715928e",
+      "styleAttributes": {
+      },
+      "text": "1. 划错次数大于 5 次",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 130
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "9917ff4820be3478",
+      "styleAttributes": {
+      },
+      "text": "2. 划出了一个答案",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 220
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "52857a9dc56e4d13",
+      "styleAttributes": {
+      },
+      "text": "C. 间隔很长划出一个答案",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": 360
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2bb2ce80cfc01dd3",
+      "styleAttributes": {
+      },
+      "text": "1. 距离上次划出答案间隔大于 45 s",
+      "type": "text",
+      "width": 360,
+      "x": 240,
+      "y": 330
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "37b0f25278375a76",
+      "styleAttributes": {
+      },
+      "text": "2. 划出了一个答案",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 420
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "5cf2fcae3a88d137",
+      "styleAttributes": {
+      },
+      "text": "D. 连续划出答案词",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": 540
     }
   ]
 }
