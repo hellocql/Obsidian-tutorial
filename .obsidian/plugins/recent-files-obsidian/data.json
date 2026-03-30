@@ -9,6 +9,30 @@
       "path": "项目临时文件/4.0.8 夸夸重构.md"
     },
     {
+      "basename": "从FunctionConfig判断解锁条件",
+      "path": "项目临时文件/从FunctionConfig判断解锁条件.md"
+    },
+    {
+      "basename": "测试数据1",
+      "path": "示例/Charts演示/测试数据1.md"
+    },
+    {
+      "basename": "homepage",
+      "path": "示例/homepage.md"
+    },
+    {
+      "basename": "Outliner演示",
+      "path": "示例/Outliner演示.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Canvas/Untitled.canvas"
+    },
+    {
+      "basename": "Pasted image 20250505163831",
+      "path": "Attachment/Pasted image 20250505163831.png"
+    },
+    {
       "basename": "word_crush",
       "path": "项目临时文件/word_crush.canvas"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "Pasted image 20260324203357",
       "path": "Attachment/Pasted image 20260324203357.png"
-    },
-    {
-      "basename": "homepage",
-      "path": "示例/homepage.md"
     },
     {
       "basename": "QuickAdd：自动化工具",
@@ -153,10 +173,6 @@
       "path": "示例/Charts演示/README.md"
     },
     {
-      "basename": "测试数据1",
-      "path": "示例/Charts演示/测试数据1.md"
-    },
-    {
       "basename": "插件设置说明",
       "path": "示例/Charts演示/插件设置说明.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Importer：导入文件",
       "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
-    },
-    {
-      "basename": "Kanban：创建看板视图",
-      "path": "Obsidian设置/Community plugins/Kanban：创建看板视图.md"
-    },
-    {
-      "basename": "Linter：自动规范笔记",
-      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
-    },
-    {
-      "basename": "Meta Bind：自动修改属性",
-      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
-    },
-    {
-      "basename": "Minimal Theme Settings：Minimal主题帮手",
-      "path": "Obsidian设置/Community plugins/Minimal Theme Settings：Minimal主题帮手.md"
     }
   ],
   "omittedPaths": [],

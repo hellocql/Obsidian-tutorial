@@ -1,131 +1,143 @@
 {
-	"edges":[
-		{
-			"fromNode":"2426bad6077803f2",
-			"fromSide":"right",
-			"id":"bc7a26d5796b69d4",
-			"styleAttributes":{},
-			"toNode":"adf2df711ad6ec8d",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"adf2df711ad6ec8d",
-			"fromSide":"right",
-			"id":"cf29690c8af48ff6",
-			"styleAttributes":{},
-			"toNode":"3335a636846b9a04",
-			"toSide":"left"
-		}
-	],
-	"nodes":[
-		{
-			"height":659,
-			"id":"3335a636846b9a04",
-			"label":"设置选项",
-			"styleAttributes":{},
-			"type":"group",
-			"width":300,
-			"x":720,
-			"y":-320
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"2426bad6077803f2",
-			"styleAttributes":{},
-			"text":"Obsidian设置",
-			"type":"text",
-			"width":260,
-			"x":-120,
-			"y":-20
-		},
-		{
-			"autoResizeHeight":true,
-			"file":"Attachment/Pasted image 20250505163831.png",
-			"height":377,
-			"id":"adf2df711ad6ec8d",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":200,
-			"y":-178
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"3539184e7037d907",
-			"styleAttributes":{},
-			"text":"[Appearance](Appearance.md)",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":-48
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"e66c7374e70ef4f0",
-			"styleAttributes":{},
-			"text":"[Hotkeys](Hotkeys.md)",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":51
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"d2b89216b9c8a832",
-			"styleAttributes":{},
-			"text":"[[Core plugins]]",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":152
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"d195ddd70ef12aa1",
-			"styleAttributes":{},
-			"text":"[[Community plugins]]",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":251
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"5c6ddd125dfe288b",
-			"styleAttributes":{},
-			"text":"[General](General.md)",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":-308
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"9d6c6a85be418d87",
-			"styleAttributes":{},
-			"text":"[Editor](Obsidian设置/Editor.md)",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":-228
-		},
-		{
-			"autoResizeHeight":true,
-			"height":60,
-			"id":"2b628ebffda9affa",
-			"styleAttributes":{},
-			"text":"[Files and links](Files%20and%20links.md)",
-			"type":"text",
-			"width":260,
-			"x":740,
-			"y":-137
-		}
-	]
+  "edges": [
+    {
+      "fromNode": "2426bad6077803f2",
+      "fromSide": "right",
+      "id": "bc7a26d5796b69d4",
+      "styleAttributes": {
+      },
+      "toNode": "adf2df711ad6ec8d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "adf2df711ad6ec8d",
+      "fromSide": "right",
+      "id": "cf29690c8af48ff6",
+      "styleAttributes": {
+      },
+      "toNode": "3335a636846b9a04",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 659,
+      "id": "3335a636846b9a04",
+      "label": "设置选项",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": 720,
+      "y": -320
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2426bad6077803f2",
+      "styleAttributes": {
+      },
+      "text": "Obsidian设置",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20250505163831.png",
+      "height": 377,
+      "id": "adf2df711ad6ec8d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 200,
+      "y": -178
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "3539184e7037d907",
+      "styleAttributes": {
+      },
+      "text": "[Appearance](Appearance.md)",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": -48
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "e66c7374e70ef4f0",
+      "styleAttributes": {
+      },
+      "text": "[Hotkeys](Hotkeys.md)",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": 51
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "d2b89216b9c8a832",
+      "styleAttributes": {
+      },
+      "text": "[[Core plugins]]",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": 152
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "d195ddd70ef12aa1",
+      "styleAttributes": {
+      },
+      "text": "[[Community plugins]]",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": 251
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "5c6ddd125dfe288b",
+      "styleAttributes": {
+      },
+      "text": "[General](General.md)",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": -308
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "9d6c6a85be418d87",
+      "styleAttributes": {
+      },
+      "text": "[Editor](Obsidian设置/Editor.md)",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": -228
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2b628ebffda9affa",
+      "styleAttributes": {
+      },
+      "text": "[Files and links](Files%20and%20links.md)",
+      "type": "text",
+      "width": 260,
+      "x": 740,
+      "y": -137
+    }
+  ]
 }
