@@ -1,0 +1,82 @@
+{
+  "edges": [
+    {
+      "fromNode": "70cee131f5acb23f",
+      "fromSide": "right",
+      "id": "5ae03d350889d701",
+      "styleAttributes": {
+      },
+      "toNode": "49cc1eccf1211672",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "70cee131f5acb23f",
+      "fromSide": "right",
+      "id": "cd69ec303d09a839",
+      "styleAttributes": {
+      },
+      "toNode": "9162421a610fc7ae",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "70cee131f5acb23f",
+      "fromSide": "right",
+      "id": "5fe67469dd7be4d3",
+      "styleAttributes": {
+      },
+      "toNode": "3bb6a1f80fb3fbc6",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "autoResizeHeight": true,
+      "color": "1",
+      "height": 60,
+      "id": "70cee131f5acb23f",
+      "styleAttributes": {
+      },
+      "text": "A. 是否划出超级难的词",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "49cc1eccf1211672",
+      "styleAttributes": {
+      },
+      "text": "1. 剩余答案数量大于 5 个单词",
+      "type": "text",
+      "width": 420,
+      "x": 240,
+      "y": -140
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "9162421a610fc7ae",
+      "styleAttributes": {
+      },
+      "text": "2. 场上存在唯一自由解且被划出",
+      "type": "text",
+      "width": 420,
+      "x": 240,
+      "y": -50
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "3bb6a1f80fb3fbc6",
+      "styleAttributes": {
+      },
+      "text": "3. 逆序词或长度小于 5 个字母",
+      "type": "text",
+      "width": 420,
+      "x": 240,
+      "y": 40
+    }
+  ]
+}
