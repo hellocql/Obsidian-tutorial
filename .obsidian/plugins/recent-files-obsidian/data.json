@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "夸夸重构玩法入口分析_9f2cdcae.plan",
+      "path": "项目临时文件/夸夸重构玩法入口分析_9f2cdcae.plan.md"
+    },
+    {
       "basename": "划词领域关键词",
       "path": "项目临时文件/划词领域关键词.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Image Auto Upload",
       "path": "Obsidian设置/Community plugins/Image Auto Upload.md"
-    },
-    {
-      "basename": "Importer：导入文件",
-      "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
     }
   ],
   "omittedPaths": [],
