@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.0.8 夸夸重构",
+      "path": "项目临时文件/4.0.8 夸夸重构.md"
+    },
+    {
       "basename": "word_crush",
       "path": "项目临时文件/word_crush.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ominisearch：增强搜索功能",
       "path": "Obsidian设置/Community plugins/Ominisearch：增强搜索功能.md"
-    },
-    {
-      "basename": "Outliner：增强大纲功能",
-      "path": "Obsidian设置/Community plugins/Outliner：增强大纲功能.md"
     }
   ],
   "omittedPaths": [],
