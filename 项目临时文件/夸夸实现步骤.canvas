@@ -62,6 +62,51 @@
       },
       "toNode": "37b0f25278375a76",
       "toSide": "left"
+    },
+    {
+      "fromNode": "5cf2fcae3a88d137",
+      "fromSide": "right",
+      "id": "aa5fe60eaaf54f27",
+      "styleAttributes": {
+      },
+      "toNode": "b4a072aac97c29ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5cf2fcae3a88d137",
+      "fromSide": "right",
+      "id": "69deb0dd4e3b7a68",
+      "styleAttributes": {
+      },
+      "toNode": "02c6afad1c222c5d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8e32a3dd7760bc7e",
+      "fromSide": "right",
+      "id": "b98d9b152b3fe1b3",
+      "styleAttributes": {
+      },
+      "toNode": "0131774e2ea82180",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8e32a3dd7760bc7e",
+      "fromSide": "right",
+      "id": "7b606a982fe57695",
+      "styleAttributes": {
+      },
+      "toNode": "2ccad1fe6458a8dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8e32a3dd7760bc7e",
+      "fromSide": "right",
+      "id": "694144f76776cf91",
+      "styleAttributes": {
+      },
+      "toNode": "5834960cab970459",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -84,7 +129,7 @@
       "id": "49cc1eccf1211672",
       "styleAttributes": {
       },
-      "text": "1. 剩余答案数量大于 5 个单词",
+      "text": "1. 剩余答案大于 5 个",
       "type": "text",
       "width": 420,
       "x": 240,
@@ -116,6 +161,7 @@
     },
     {
       "autoResizeHeight": true,
+      "color": "2",
       "height": 60,
       "id": "c9e899c05bf6cb20",
       "styleAttributes": {
@@ -152,6 +198,7 @@
     },
     {
       "autoResizeHeight": true,
+      "color": "3",
       "height": 60,
       "id": "52857a9dc56e4d13",
       "styleAttributes": {
@@ -189,6 +236,19 @@
     {
       "autoResizeHeight": true,
       "height": 60,
+      "id": "b4a072aac97c29ca",
+      "styleAttributes": {
+      },
+      "text": "1. 两次划词中间没有错词",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 510
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "4",
+      "height": 60,
       "id": "5cf2fcae3a88d137",
       "styleAttributes": {
       },
@@ -196,7 +256,116 @@
       "type": "text",
       "width": 260,
       "x": -120,
-      "y": 540
+      "y": 570
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "02c6afad1c222c5d",
+      "styleAttributes": {
+      },
+      "text": "2. 只夸答案词，不夸 BonusWord",
+      "type": "text",
+      "width": 320,
+      "x": 240,
+      "y": 600
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "0131774e2ea82180",
+      "styleAttributes": {
+      },
+      "text": "1. 剩余答案大于 5 个",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 720
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "2ccad1fe6458a8dd",
+      "styleAttributes": {
+      },
+      "text": "2. 自由解数量大于 1 个",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 820
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "5834960cab970459",
+      "styleAttributes": {
+      },
+      "text": "3. 划出逆序答案词",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 920
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "5",
+      "height": 60,
+      "id": "8e32a3dd7760bc7e",
+      "styleAttributes": {
+      },
+      "text": "E. 普通情况划出难词",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": 820
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "517fdd76c9cffe5e",
+      "styleAttributes": {
+      },
+      "text": "在松手字母上方飘一个大拇指",
+      "type": "text",
+      "width": 280,
+      "x": -540,
+      "y": 820
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "6ebcbc642dc4ac05",
+      "styleAttributes": {
+      },
+      "text": "横幅图文，用指定表情包+本地化文本池子随机",
+      "type": "text",
+      "width": 260,
+      "x": -530,
+      "y": 300
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "9c48c6d19f6302c5",
+      "styleAttributes": {
+      },
+      "text": "鼓励词+口播夸奖",
+      "type": "text",
+      "width": 260,
+      "x": -530,
+      "y": 570
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "997e3c3545371908",
+      "styleAttributes": {
+      },
+      "text": "从右侧划入的新 UI",
+      "type": "text",
+      "width": 260,
+      "x": -530,
+      "y": -20
     }
   ]
 }
