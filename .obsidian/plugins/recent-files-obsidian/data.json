@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "划词领域关键词",
+      "path": "项目临时文件/划词领域关键词.md"
+    },
+    {
       "basename": "4.0.8 夸夸重构",
       "path": "项目临时文件/4.0.8 夸夸重构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Minimal Theme Settings：Minimal主题帮手",
       "path": "Obsidian设置/Community plugins/Minimal Theme Settings：Minimal主题帮手.md"
-    },
-    {
-      "basename": "Ominisearch：增强搜索功能",
-      "path": "Obsidian设置/Community plugins/Ominisearch：增强搜索功能.md"
     }
   ],
   "omittedPaths": [],
