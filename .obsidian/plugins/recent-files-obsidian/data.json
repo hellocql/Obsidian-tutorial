@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "夸夸重构划词规则实现",
+      "path": "项目临时文件/夸夸重构划词规则实现.md"
+    },
+    {
       "basename": "夸夸实现步骤及判断逻辑",
       "path": "项目临时文件/夸夸实现步骤及判断逻辑.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "团队协作看板",
       "path": "示例/Kanban演示/团队协作看板.md"
-    },
-    {
-      "basename": "Highlighter：高亮笔记内容",
-      "path": "Obsidian设置/Community plugins/Highlighter：高亮笔记内容.md"
     }
   ],
   "omittedPaths": [],
