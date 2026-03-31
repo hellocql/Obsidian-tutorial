@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "word_crush",
+      "path": "WordCrush夸夸重构/word_crush.canvas"
+    },
+    {
+      "basename": "重构流程总结",
+      "path": "WordCrush夸夸重构/重构流程总结.md"
+    },
+    {
       "basename": "夸夸重构划词规则实现",
       "path": "WordCrush夸夸重构/夸夸重构划词规则实现.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "4.0.8 夸夸重构",
       "path": "WordCrush夸夸重构/4.0.8 夸夸重构.md"
-    },
-    {
-      "basename": "word_crush",
-      "path": "WordCrush夸夸重构/word_crush.canvas"
     },
     {
       "basename": "夸夸重构玩法入口分析_9f2cdcae.plan",
@@ -195,10 +199,6 @@
     {
       "basename": "学习计划看板",
       "path": "示例/Kanban演示/学习计划看板.md"
-    },
-    {
-      "basename": "团队协作看板",
-      "path": "示例/Kanban演示/团队协作看板.md"
     }
   ],
   "omittedPaths": [],
