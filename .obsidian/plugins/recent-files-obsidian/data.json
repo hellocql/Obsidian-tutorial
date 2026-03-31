@@ -5,6 +5,10 @@
       "path": "WordCrush夸夸重构/word_crush.canvas"
     },
     {
+      "basename": "Pasted image 20260331184319",
+      "path": "Attachment/Pasted image 20260331184319.png"
+    },
+    {
       "basename": "重构流程总结",
       "path": "WordCrush夸夸重构/重构流程总结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "插件设置说明",
       "path": "示例/Charts演示/插件设置说明.md"
-    },
-    {
-      "basename": "学习计划看板",
-      "path": "示例/Kanban演示/学习计划看板.md"
     }
   ],
   "omittedPaths": [],

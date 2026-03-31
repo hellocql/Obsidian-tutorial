@@ -170,6 +170,28 @@
       "width": 915,
       "x": -700,
       "y": 1200
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260331184319.png",
+      "height": 400,
+      "id": "9deb5e058a04249c",
+      "type": "file",
+      "width": 228,
+      "x": -700,
+      "y": 1640
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 80,
+      "id": "cbfac242422958e1",
+      "styleAttributes": {
+      },
+      "text": "出现了 UI 按钮不能点击，但是 Tile 可以点击的情况，通过调整 UIRoot 的 Sort Order 解决了",
+      "type": "text",
+      "width": 675,
+      "x": -460,
+      "y": 1640
     }
   ]
 }
