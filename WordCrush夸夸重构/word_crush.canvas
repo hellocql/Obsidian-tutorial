@@ -245,11 +245,11 @@
       "id": "996513988645a5df",
       "styleAttributes": {
       },
-      "text": "UIWindowConfig",
+      "text": "UIInfo 变成 UIWindowConfig 导致遮罩出不来",
       "type": "text",
-      "width": 260,
-      "x": -80,
-      "y": 1960
+      "width": 660,
+      "x": 280,
+      "y": 1880
     }
   ]
 }
