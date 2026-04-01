@@ -192,6 +192,18 @@
       "width": 675,
       "x": -460,
       "y": 1640
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "d344f86dedc7f789",
+      "styleAttributes": {
+      },
+      "text": "控制底部广告 Banner 的适配器 BannerAdapter  -> CanShowBanner",
+      "type": "text",
+      "width": 720,
+      "x": -700,
+      "y": 2100
     }
   ]
 }
