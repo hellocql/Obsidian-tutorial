@@ -204,6 +204,18 @@
       "width": 720,
       "x": -700,
       "y": 2100
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 80,
+      "id": "101297e30cdca0f1",
+      "styleAttributes": {
+      },
+      "text": "由于 EditorNativePlatformService  GetUserGroup AB 分组未设置导致 TileV 2 入口出不来，其他依赖该参数的入口也出不来",
+      "type": "text",
+      "width": 700,
+      "x": 280,
+      "y": 1640
     }
   ]
 }
