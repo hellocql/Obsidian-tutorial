@@ -238,6 +238,18 @@
       "width": 660,
       "x": 280,
       "y": 1780
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "996513988645a5df",
+      "styleAttributes": {
+      },
+      "text": "UIWindowConfig",
+      "type": "text",
+      "width": 260,
+      "x": -80,
+      "y": 1960
     }
   ]
 }
