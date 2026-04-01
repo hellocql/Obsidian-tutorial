@@ -216,6 +216,28 @@
       "width": 700,
       "x": 280,
       "y": 1640
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260401165757.png",
+      "height": 302,
+      "id": "ea430ea608327495",
+      "type": "file",
+      "width": 400,
+      "x": -700,
+      "y": 2220
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "a0f26c2e9307a677",
+      "styleAttributes": {
+      },
+      "text": "En字体材质的预设要重新指定，Debug 模式，Atlas 拖进去",
+      "type": "text",
+      "width": 660,
+      "x": 280,
+      "y": 1780
     }
   ]
 }
