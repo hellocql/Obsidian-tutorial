@@ -5,6 +5,10 @@
       "path": "WordCrush夸夸重构/word_crush.canvas"
     },
     {
+      "basename": "升级成URP之后摄像机属性切换为Overlay坐标计算需要调整",
+      "path": "WordCrush夸夸重构/升级成URP之后摄像机属性切换为Overlay坐标计算需要调整.md"
+    },
+    {
       "basename": "Pasted image 20260401165757",
       "path": "Attachment/Pasted image 20260401165757.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "习惯记录1",
       "path": "示例/Charts演示/习惯记录1.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Charts演示/README.md"
     }
   ],
   "omittedPaths": [],

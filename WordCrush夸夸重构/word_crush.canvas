@@ -254,6 +254,18 @@
       "width": 660,
       "x": 280,
       "y": 1880
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "WordCrush夸夸重构/升级成URP之后摄像机属性切换为Overlay坐标计算需要调整.md",
+      "height": 60,
+      "id": "217197245a0edcc8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1220,
+      "x": -2000,
+      "y": 1700
     }
   ]
 }
