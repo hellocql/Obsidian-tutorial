@@ -176,6 +176,8 @@
       "file": "Attachment/Pasted image 20260331184319.png",
       "height": 400,
       "id": "9deb5e058a04249c",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 228,
       "x": -700,
@@ -222,6 +224,8 @@
       "file": "Attachment/Pasted image 20260401165757.png",
       "height": 302,
       "id": "ea430ea608327495",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": -700,
