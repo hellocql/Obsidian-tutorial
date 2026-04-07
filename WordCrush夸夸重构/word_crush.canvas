@@ -1,5 +1,14 @@
 {
   "edges": [
+    {
+      "fromNode": "c7a833210079482a",
+      "fromSide": "right",
+      "id": "b30b1de03968ad72",
+      "styleAttributes": {
+      },
+      "toNode": "3e1895df1891a612",
+      "toSide": "left"
+    }
   ],
   "nodes": [
     {
@@ -288,6 +297,16 @@
       "width": 660,
       "x": 280,
       "y": 2100
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260407180137.png",
+      "height": 280,
+      "id": "3e1895df1891a612",
+      "type": "file",
+      "width": 400,
+      "x": 280,
+      "y": 990
     }
   ]
 }
