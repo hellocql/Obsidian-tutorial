@@ -266,6 +266,28 @@
       "width": 1220,
       "x": -2000,
       "y": 1700
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260407102942.png",
+      "height": 201,
+      "id": "064b5d1fe0045ca3",
+      "type": "file",
+      "width": 400,
+      "x": 280,
+      "y": 2200
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "a61e53821eae6f0a",
+      "styleAttributes": {
+      },
+      "text": "BuildPlayer. Cs ResoucesEditorTools 预期是用不上了",
+      "type": "text",
+      "width": 660,
+      "x": 280,
+      "y": 2100
     }
   ]
 }
