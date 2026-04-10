@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UIHomePage_RectTransform_自动居中排查记录_2026-04-10",
+      "path": "WordCrush集成/UIHomePage_RectTransform_自动居中排查记录_2026-04-10.md"
+    },
+    {
       "basename": "类型过滤",
       "path": "Unity使用/类型过滤.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "待办事项快速添加",
       "path": "示例/Quick Add演示/待办事项快速添加.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Quick Add演示/README.md"
     }
   ],
   "omittedPaths": [],
