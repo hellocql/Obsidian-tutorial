@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "类型过滤",
+      "path": "Unity使用/类型过滤.md"
+    },
+    {
       "basename": "word_crush",
-      "path": "WordCrush夸夸重构/word_crush.canvas"
+      "path": "WordCrush集成/word_crush.canvas"
     },
     {
       "basename": "Pasted image 20260408180243",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "示例/Quick Add演示/README.md"
-    },
-    {
-      "basename": "基础图表示例",
-      "path": "示例/Charts演示/基础图表示例.md"
     }
   ],
   "omittedPaths": [],
