@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Fix",
+      "path": "WordCrush集成/Fix.canvas"
+    },
+    {
+      "basename": "Pasted image 20260414202516",
+      "path": "Attachment/Pasted image 20260414202516.png"
+    },
+    {
+      "basename": "word_crush",
+      "path": "WordCrush集成/word_crush.canvas"
+    },
+    {
       "basename": "UIHomePage_RectTransform_自动居中排查记录_2026-04-10",
       "path": "WordCrush集成/UIHomePage_RectTransform_自动居中排查记录_2026-04-10.md"
     },
     {
       "basename": "类型过滤",
       "path": "Unity使用/类型过滤.md"
-    },
-    {
-      "basename": "word_crush",
-      "path": "WordCrush集成/word_crush.canvas"
     },
     {
       "basename": "Pasted image 20260408180243",
@@ -191,14 +199,6 @@
     {
       "basename": "测试数据5",
       "path": "示例/Charts演示/测试数据5.md"
-    },
-    {
-      "basename": "生活事务管理",
-      "path": "示例/Kanban演示/生活事务管理.md"
-    },
-    {
-      "basename": "待办事项快速添加",
-      "path": "示例/Quick Add演示/待办事项快速添加.md"
     }
   ],
   "omittedPaths": [],

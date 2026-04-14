@@ -281,6 +281,8 @@
       "file": "Attachment/Pasted image 20260407102942.png",
       "height": 201,
       "id": "064b5d1fe0045ca3",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": 280,
@@ -303,6 +305,8 @@
       "file": "Attachment/Pasted image 20260407180137.png",
       "height": 280,
       "id": "3e1895df1891a612",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": 280,
@@ -313,6 +317,8 @@
       "file": "Attachment/Pasted image 20260408180243.png",
       "height": 929,
       "id": "0599fe0399e69c63",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 480,
       "x": 200,
