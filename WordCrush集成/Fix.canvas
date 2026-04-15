@@ -23,6 +23,18 @@
       "width": 280,
       "x": 40,
       "y": -300
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 140,
+      "id": "f63d18a5ed928732",
+      "styleAttributes": {
+      },
+      "text": "排除重复引用  \n- Base|Module  \n - Base|TileV 2",
+      "type": "text",
+      "width": 340,
+      "x": -390,
+      "y": 80
     }
   ]
 }
