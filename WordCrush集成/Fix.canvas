@@ -4,18 +4,6 @@
   "nodes": [
     {
       "autoResizeHeight": true,
-      "height": 60,
-      "id": "da01d7db7e573a3c",
-      "styleAttributes": {
-      },
-      "text": "",
-      "type": "text",
-      "width": 260,
-      "x": -120,
-      "y": -20
-    },
-    {
-      "autoResizeHeight": true,
       "file": "Attachment/Pasted image 20260414202516.png",
       "height": 281,
       "id": "6d2b9003f9684a9c",
@@ -23,6 +11,18 @@
       "width": 400,
       "x": -390,
       "y": -320
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "da01d7db7e573a3c",
+      "styleAttributes": {
+      },
+      "text": "部分分散的图片没打进 xasset",
+      "type": "text",
+      "width": 280,
+      "x": 40,
+      "y": -300
     }
   ]
 }
