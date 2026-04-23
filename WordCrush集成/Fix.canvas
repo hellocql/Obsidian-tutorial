@@ -45,6 +45,18 @@
       "width": 400,
       "x": -390,
       "y": 260
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 140,
+      "id": "dbf31ebc0b3aa302",
+      "styleAttributes": {
+      },
+      "text": "Unity 自带了升级工具：\nEdit → Render Pipeline → Universal Render Pipeline → Upgrade Project Materials to URP Materials",
+      "type": "text",
+      "width": 400,
+      "x": -390,
+      "y": 380
     }
   ]
 }
