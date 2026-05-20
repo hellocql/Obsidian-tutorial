@@ -61,6 +61,18 @@
       "width": 400,
       "x": -390,
       "y": 380
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 60,
+      "id": "a04b7298bdd52b22",
+      "styleAttributes": {
+      },
+      "text": "签名不同导致 apk 获取到 AndroidId 不同",
+      "type": "text",
+      "width": 260,
+      "x": -390,
+      "y": 560
     }
   ]
 }
