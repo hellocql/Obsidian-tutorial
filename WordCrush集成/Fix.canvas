@@ -73,6 +73,18 @@
       "width": 260,
       "x": -390,
       "y": 560
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 100,
+      "id": "2a1f2105db969f90",
+      "styleAttributes": {
+      },
+      "text": "查看 apk 签名 java -jar apksigner. Jar verify --print-certs \"C:\\Users\\Administrator\\Downloads\\Word_Crush_4.1.2. Apk\"",
+      "type": "text",
+      "width": 500,
+      "x": -100,
+      "y": 560
     }
   ]
 }
