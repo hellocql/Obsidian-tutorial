@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20260521160026",
+      "path": "Attachment/Pasted image 20260521160026.png"
+    },
+    {
       "basename": "Fix",
       "path": "WordCrush集成/Fix.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "测试数据3",
       "path": "示例/Charts演示/测试数据3.md"
-    },
-    {
-      "basename": "测试数据4",
-      "path": "示例/Charts演示/测试数据4.md"
     }
   ],
   "omittedPaths": [],
