@@ -1,0 +1,36 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260525110746.png",
+      "height": 400,
+      "id": "515d11f4527765f9",
+      "type": "file",
+      "width": 399,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260525111655.png",
+      "height": 400,
+      "id": "bb69bc11ea1362a5",
+      "type": "file",
+      "width": 382,
+      "x": 420,
+      "y": 240
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260525111739.png",
+      "height": 400,
+      "id": "ef606daa6218d509",
+      "type": "file",
+      "width": 367,
+      "x": 420,
+      "y": 500
+    }
+  ]
+}

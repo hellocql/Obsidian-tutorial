@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Debug/未命名.canvas"
+    },
+    {
+      "basename": "Pasted image 20260525111739",
+      "path": "Attachment/Pasted image 20260525111739.png"
+    },
+    {
+      "basename": "Pasted image 20260525111655",
+      "path": "Attachment/Pasted image 20260525111655.png"
+    },
+    {
+      "basename": "Pasted image 20260525110746",
+      "path": "Attachment/Pasted image 20260525110746.png"
+    },
+    {
       "basename": "Pasted image 20260521160026",
       "path": "Attachment/Pasted image 20260521160026.png"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "About Reference",
       "path": "Obsidian设置/Community plugins/Tasks/Reference/About Reference.md"
-    },
-    {
-      "basename": "RSS Feed",
-      "path": "Obsidian设置/Community plugins/RSS Feed.md"
-    },
-    {
-      "basename": "Advanced URI",
-      "path": "Obsidian设置/Community plugins/Advanced URI.md"
-    },
-    {
-      "basename": "测试数据2",
-      "path": "示例/Charts演示/测试数据2.md"
-    },
-    {
-      "basename": "测试数据3",
-      "path": "示例/Charts演示/测试数据3.md"
     }
   ],
   "omittedPaths": [],
