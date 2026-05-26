@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fix",
+      "path": "WordCrush集成/Fix.canvas"
+    },
+    {
+      "basename": "Pasted image 20260526181736",
+      "path": "Attachment/Pasted image 20260526181736.png"
+    },
+    {
+      "basename": "word_crush",
+      "path": "WordCrush集成/word_crush.canvas"
+    },
+    {
       "basename": "未命名",
       "path": "Debug/未命名.canvas"
     },
@@ -21,20 +33,12 @@
       "path": "Attachment/Pasted image 20260521160026.png"
     },
     {
-      "basename": "Fix",
-      "path": "WordCrush集成/Fix.canvas"
-    },
-    {
       "basename": "Pasted image 20260423104435",
       "path": "Attachment/Pasted image 20260423104435.png"
     },
     {
       "basename": "Pasted image 20260414202516",
       "path": "Attachment/Pasted image 20260414202516.png"
-    },
-    {
-      "basename": "word_crush",
-      "path": "WordCrush集成/word_crush.canvas"
     },
     {
       "basename": "UIHomePage_RectTransform_自动居中排查记录_2026-04-10",
@@ -195,10 +199,6 @@
     {
       "basename": "Quick Reference",
       "path": "Obsidian设置/Community plugins/Tasks/Quick Reference.md"
-    },
-    {
-      "basename": "About Reference",
-      "path": "Obsidian设置/Community plugins/Tasks/Reference/About Reference.md"
     }
   ],
   "omittedPaths": [],
