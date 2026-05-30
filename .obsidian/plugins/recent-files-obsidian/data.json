@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20260530155557",
+      "path": "Attachment/Pasted image 20260530155557.png"
+    },
+    {
       "basename": "Fix",
       "path": "WordCrush集成/Fix.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Introduction",
       "path": "Obsidian设置/Community plugins/Tasks/Introduction.md"
-    },
-    {
-      "basename": "Quick Reference",
-      "path": "Obsidian设置/Community plugins/Tasks/Quick Reference.md"
     }
   ],
   "omittedPaths": [],

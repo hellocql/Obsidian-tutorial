@@ -103,10 +103,22 @@
       "file": "Attachment/Pasted image 20260526181736.png",
       "height": 134,
       "id": "05339a30709e5599",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": -391,
       "y": 800
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260530155557.png",
+      "height": 207,
+      "id": "7379a80920030f0c",
+      "type": "file",
+      "width": 400,
+      "x": 10,
+      "y": 764
     }
   ]
 }
