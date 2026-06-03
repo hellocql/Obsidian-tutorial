@@ -5,6 +5,10 @@
       "path": "WordCrush集成/Fix.canvas"
     },
     {
+      "basename": "Pasted image 20260603165032",
+      "path": "Attachment/Pasted image 20260603165032.png"
+    },
+    {
       "basename": "Pasted image 20260530155557",
       "path": "Attachment/Pasted image 20260530155557.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "intro",
       "path": "Obsidian设置/Community plugins/Dataview/Dataview项目文档翻译/api/intro.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "Obsidian设置/Community plugins/Tasks/Introduction.md"
     }
   ],
   "omittedPaths": [],
