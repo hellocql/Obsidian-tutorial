@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20260605172726",
+      "path": "Attachment/Pasted image 20260605172726.png"
+    },
+    {
       "basename": "Fix",
       "path": "WordCrush集成/Fix.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "Obsidian设置/Community plugins/Dataview/Dataview项目文档翻译/index.md"
-    },
-    {
-      "basename": "intro",
-      "path": "Obsidian设置/Community plugins/Dataview/Dataview项目文档翻译/api/intro.md"
     }
   ],
   "omittedPaths": [],
