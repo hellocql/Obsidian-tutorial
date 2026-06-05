@@ -121,6 +121,16 @@
       "width": 400,
       "x": 40,
       "y": 764
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260605172726.png",
+      "height": 273,
+      "id": "1769d0bfdb938aff",
+      "type": "file",
+      "width": 400,
+      "x": -391,
+      "y": 1040
     }
   ]
 }
