@@ -1,0 +1,26 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260710111324.png",
+      "height": 303,
+      "id": "b9d816d36ed230fa",
+      "type": "file",
+      "width": 400,
+      "x": -580,
+      "y": -280
+    },
+    {
+      "autoResizeHeight": true,
+      "file": "Attachment/Pasted image 20260710111401.png",
+      "height": 218,
+      "id": "9f58471c33844a66",
+      "type": "file",
+      "width": 400,
+      "x": 80,
+      "y": -237
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "版本内存差异比对",
+      "path": "WordCrush集成/版本内存差异比对.canvas"
+    },
+    {
+      "basename": "Pasted image 20260710111401",
+      "path": "Attachment/Pasted image 20260710111401.png"
+    },
+    {
+      "basename": "Pasted image 20260710111324",
+      "path": "Attachment/Pasted image 20260710111324.png"
+    },
+    {
       "basename": "Fix",
       "path": "WordCrush集成/Fix.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Tasks插件综述",
       "path": "Obsidian设置/Community plugins/Tasks/Tasks插件综述.md"
-    },
-    {
-      "basename": "README",
-      "path": "Obsidian设置/Community plugins/Tasks/README.md"
-    },
-    {
-      "basename": "Dataview插件综述",
-      "path": "Obsidian设置/Community plugins/Dataview/Dataview插件综述.md"
-    },
-    {
-      "basename": "index",
-      "path": "Obsidian设置/Community plugins/Dataview/Dataview项目文档翻译/index.md"
     }
   ],
   "omittedPaths": [],
